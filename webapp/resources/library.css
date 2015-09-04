@@ -1,0 +1,100 @@
+body {
+    background-color: #7BCF3C;
+}
+
+.bookHeader {
+    margin: 40px;
+    color: #5f6062;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    /*border: dashed;*/
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    width: 950px;
+}
+
+.header {
+    background-color: white;
+    width: 100%;
+    height: 125px;
+}
+
+.img-sm {
+    height: 125px;
+    width: 275px;
+}
+
+.img-stretch {
+    width: 227px;
+}
+
+.left {
+    float: left;
+}
+
+.line {
+    background-color: #52A314;
+    height: 3px;
+    width: 100%;
+}
+
+.login {
+    /*background-color: white;*/
+    border-radius: 5px;
+    height: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+}
+
+.move-down {
+    margin-top: 25px;
+}
+
+.navBar{
+    background-color: gainsboro;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.right {
+    float: right;
+}
+
+td {
+    border-bottom-style: hidden;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.titleGray {
+    color: #5f6062;
+    float: left;
+    margin-top: 50px;
+}
+
+.titleGreen {
+    color: #7BCF3C;
+    margin-top: 50px;
+    float: left;
+}
+
+.touch {
+    margin: 0;
+    padding: 0;
+}
+
+.warning {
+    color: red;
+}
